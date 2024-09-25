@@ -1,0 +1,1 @@
+streamlit.exe run main.py --theme.base dark
